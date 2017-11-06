@@ -1,0 +1,763 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-27 10:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:21
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:22
+msgid "Sorry, we can not find that page!"
+msgstr ""
+
+#: 404.php:23
+msgid "Either something went wrong or the page does not exist anymore."
+msgstr ""
+
+#: 404.php:24
+msgid "Homepage"
+msgstr ""
+
+#: archive.php:39 index.php:44 search.php:36
+msgid "Previous"
+msgstr ""
+
+#: archive.php:40 index.php:45 search.php:37
+msgid "Next"
+msgstr ""
+
+#: archive.php:41 index.php:46 search.php:38
+msgid "Page"
+msgstr ""
+
+#. WPCS: XSS OK.
+#: comments.php:31
+msgid "Comments"
+msgstr ""
+
+#: comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:81
+msgid "Name*"
+msgstr ""
+
+#: comments.php:84
+msgid "Email*"
+msgstr ""
+
+#: comments.php:87
+msgid "Website"
+msgstr ""
+
+#: comments.php:96
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:97
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:98
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:99
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:102
+msgid "Comment"
+msgstr ""
+
+#: comments.php:107
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:113
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:119
+msgid ""
+"<p class=\"comment-notes\"><span>Your email address will not be published. "
+"Required fields are marked *</span></p>"
+msgstr ""
+
+#: functions.php:60
+msgid "Primary"
+msgstr ""
+
+#: functions.php:162
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:172
+msgid "Google Map Widget"
+msgstr ""
+
+#: functions.php:174
+msgid "Widget for Google map section( Use Text widget for Google Map )."
+msgstr ""
+
+#: functions.php:182
+msgid "Footer First"
+msgstr ""
+
+#: functions.php:192
+msgid "Footer Second"
+msgstr ""
+
+#: functions.php:194
+msgid "Here you can use text widget to display Contact Form."
+msgstr ""
+
+#: functions.php:202
+msgid "Footer Third"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: inc/custom-functions.php:72 inc/customizer.php:150
+msgid ">"
+msgstr ""
+
+#: inc/custom-functions.php:73 inc/customizer.php:132
+msgid "Home"
+msgstr ""
+
+#: inc/custom-functions.php:95
+msgid "Search Results for \""
+msgstr ""
+
+#: inc/custom-functions.php:95
+msgid "\""
+msgstr ""
+
+#: inc/custom-functions.php:208
+msgid "Error 404"
+msgstr ""
+
+#: inc/custom-functions.php:243 inc/customizer.php:1115
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/custom-functions.php:424
+msgid "&copy; "
+msgstr ""
+
+#: inc/custom-functions.php:431
+msgid "Bakes and Cakes by Rara Theme."
+msgstr ""
+
+#: inc/custom-functions.php:433
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: inc/custom-functions.php:433
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Choose Post"
+msgstr ""
+
+#: inc/customizer.php:26
+msgid "Choose Page"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Choose Product"
+msgstr ""
+
+#: inc/customizer.php:52 inc/customizer.php:714 inc/customizer.php:800
+msgid "Choose Category"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Default section provided by wordpress customizer."
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Show current"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Breadcrumb Home Text"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Customize Home Page Settings"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "About Us Section"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Enable About us Section"
+msgstr ""
+
+#: inc/customizer.php:214 inc/customizer.php:260 inc/customizer.php:696
+#: inc/customizer.php:782 inc/customizer.php:846 inc/customizer.php:893
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Featured Product Section"
+msgstr ""
+
+#: inc/customizer.php:243
+msgid "Enable Featured Product Section"
+msgstr ""
+
+#: inc/customizer.php:279
+msgid "Select Product One"
+msgstr ""
+
+#: inc/customizer.php:298
+msgid "Select Product Two"
+msgstr ""
+
+#: inc/customizer.php:317
+msgid "Select Product Three"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Select Product Four"
+msgstr ""
+
+#: inc/customizer.php:355
+msgid "Select Product Five"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Select Product Six"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "Select Product Seven"
+msgstr ""
+
+#: inc/customizer.php:412
+msgid "Select Product Eight"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "Select Product Nine"
+msgstr ""
+
+#: inc/customizer.php:450
+msgid "Select Product Ten"
+msgstr ""
+
+#: inc/customizer.php:464
+msgid "Events Section"
+msgstr ""
+
+#: inc/customizer.php:482
+msgid "Enable Events Section"
+msgstr ""
+
+#: inc/customizer.php:500
+msgid "Events Section Title"
+msgstr ""
+
+#: inc/customizer.php:517
+msgid "Select First Event Post"
+msgstr ""
+
+#: inc/customizer.php:537
+msgid "Select Second Event Post"
+msgstr ""
+
+#: inc/customizer.php:556
+msgid "Enable Make Reservation Section"
+msgstr ""
+
+#: inc/customizer.php:572
+msgid "Reservation Title"
+msgstr ""
+
+#: inc/customizer.php:588
+msgid "Content Here"
+msgstr ""
+
+#: inc/customizer.php:604
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer.php:620
+msgid "More Content Here"
+msgstr ""
+
+#: inc/customizer.php:636 inc/customizer.php:933
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:652 inc/customizer.php:948
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer.php:661
+msgid "Our staff Section"
+msgstr ""
+
+#: inc/customizer.php:678
+msgid "Enable Our Staff Section"
+msgstr ""
+
+#: inc/customizer.php:734 inc/customizer.php:914
+msgid "Upload Background Image"
+msgstr ""
+
+#: inc/customizer.php:746
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/customizer.php:764
+msgid "Enable Testimonials Section"
+msgstr ""
+
+#: inc/customizer.php:810
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer.php:828
+msgid "Enable Blog Section"
+msgstr ""
+
+#: inc/customizer.php:857
+msgid "Promotional Block Section"
+msgstr ""
+
+#: inc/customizer.php:875
+msgid "Enable promotional Block Section"
+msgstr ""
+
+#: inc/customizer.php:957
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:975
+msgid "Enable Home Page Slider"
+msgstr ""
+
+#: inc/customizer.php:993
+msgid "Enable Slider Auto Transition"
+msgstr ""
+
+#: inc/customizer.php:1011
+msgid "Enable Slider Loop"
+msgstr ""
+
+#: inc/customizer.php:1029
+msgid "Enable Slider Control"
+msgstr ""
+
+#: inc/customizer.php:1047
+msgid "Enable Slider Caption"
+msgstr ""
+
+#: inc/customizer.php:1065
+msgid "Choose Slider Animation"
+msgstr ""
+
+#: inc/customizer.php:1069
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer.php:1070
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer.php:1087
+msgid "Slider Speed"
+msgstr ""
+
+#: inc/customizer.php:1105
+msgid "Animation Speed"
+msgstr ""
+
+#: inc/customizer.php:1123
+msgid "Readmore Text"
+msgstr ""
+
+#: inc/customizer.php:1141
+msgid "Choose Slider Category"
+msgstr ""
+
+#: inc/customizer.php:1153
+msgid "Blog Page Settings"
+msgstr ""
+
+#: inc/customizer.php:1171
+msgid "Enable Full content"
+msgstr ""
+
+#: inc/customizer.php:1181
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:1198
+msgid "Copyright Info"
+msgstr ""
+
+#: inc/demo-content.php:11
+msgid "Demo Content Import"
+msgstr ""
+
+#: inc/demo-content.php:22
+#, php-format
+msgid ""
+"Bakes and Cakes comes with demo content import feature. You can import the "
+"demo content with just one click. For step-by-step video tutorial, %1$sClick "
+"here%2$s"
+msgstr ""
+
+#: inc/demo-content.php:38
+msgid "Plugin required"
+msgstr ""
+
+#: inc/demo-content.php:38
+msgid "Rara One Click Demo Import"
+msgstr ""
+
+#: inc/demo-content.php:41
+msgid "Download Demo Content Zip File"
+msgstr ""
+
+#: inc/demo-content.php:41 inc/info.php:41 inc/info.php:42 inc/info.php:43
+#: inc/info.php:44
+msgid "here"
+msgstr ""
+
+#: inc/info.php:11 inc/info.php:41
+msgid "Video Tutorial"
+msgstr ""
+
+#: inc/info.php:30
+msgid ""
+"Check out step-by-step video tutorial to create your website like the demo "
+"of Bakes and Cakes WordPress theme."
+msgstr ""
+
+#: inc/info.php:42
+msgid "Theme Demo"
+msgstr ""
+
+#: inc/info.php:43
+msgid "Support Ticket"
+msgstr ""
+
+#: inc/info.php:44
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/info.php:174
+msgid "Pro Available"
+msgstr ""
+
+#: inc/info.php:176
+msgid "VIEW PRO THEME"
+msgstr ""
+
+#. $id
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:23
+msgid "Right sidebar (default)"
+msgstr ""
+
+#: inc/metabox.php:28
+msgid "No sidebar"
+msgstr ""
+
+#: inc/metabox.php:40
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/template-tags.php:24
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:35 inc/template-tags.php:51
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:37
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: inc/template-tags.php:53
+#, php-format
+msgid " %1$s "
+msgstr ""
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: inc/template-tags.php:60 template-parts/content-page.php:40
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. Base ID
+#: inc/widget-popular-post.php:26
+msgid "RARA: Popular Post"
+msgstr ""
+
+#: inc/widget-popular-post.php:27
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: inc/widget-popular-post.php:41 inc/widget-popular-post.php:97
+#: inc/widget-popular-post.php:140
+msgid "Most Viewed"
+msgstr ""
+
+#: inc/widget-popular-post.php:72 inc/widget-popular-post.php:73
+#: inc/widget-recent-post.php:75 inc/widget-recent-post.php:76
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/widget-popular-post.php:105 inc/widget-recent-post.php:110
+#: inc/widget-social-links.php:120
+msgid "Title"
+msgstr ""
+
+#: inc/widget-popular-post.php:110 inc/widget-recent-post.php:115
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widget-popular-post.php:116 inc/widget-recent-post.php:121
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: inc/widget-popular-post.php:121 inc/widget-recent-post.php:126
+msgid "Show Post Date"
+msgstr ""
+
+#. Base ID
+#: inc/widget-recent-post.php:26
+msgid "RARA: Recent Post"
+msgstr ""
+
+#: inc/widget-recent-post.php:27
+msgid "A Recent Post Widget"
+msgstr ""
+
+#: inc/widget-recent-post.php:41 inc/widget-recent-post.php:102
+#: inc/widget-recent-post.php:144
+msgid "Recent Posts"
+msgstr ""
+
+#. Base ID
+#: inc/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr ""
+
+#: inc/widget-social-links.php:26
+msgid "A Social Links Widget"
+msgstr ""
+
+#: inc/widget-social-links.php:40 inc/widget-social-links.php:105
+#: inc/widget-social-links.php:189
+msgid "Social Media"
+msgstr ""
+
+#: inc/widget-social-links.php:61 inc/widget-social-links.php:125
+msgid "Facebook"
+msgstr ""
+
+#: inc/widget-social-links.php:64 inc/widget-social-links.php:130
+msgid "Twitter"
+msgstr ""
+
+#: inc/widget-social-links.php:67
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widget-social-links.php:70 inc/widget-social-links.php:140
+msgid "Instagram"
+msgstr ""
+
+#: inc/widget-social-links.php:73 inc/widget-social-links.php:145
+msgid "Google Plus"
+msgstr ""
+
+#: inc/widget-social-links.php:76 inc/widget-social-links.php:150
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widget-social-links.php:79 inc/widget-social-links.php:155
+msgid "YouTube"
+msgstr ""
+
+#: inc/widget-social-links.php:82 inc/widget-social-links.php:160
+msgid "OK"
+msgstr ""
+
+#: inc/widget-social-links.php:85 inc/widget-social-links.php:165
+msgid "VK"
+msgstr ""
+
+#: inc/widget-social-links.php:88 inc/widget-social-links.php:170
+msgid "Xing"
+msgstr ""
+
+#: inc/widget-social-links.php:135
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/woocommerce-functions.php:36
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:38
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#: sections/section-about.php:28 template-parts/content.php:70
+msgid "Read More"
+msgstr ""
+
+#: sections/section-promotional.php:38
+msgid "Top"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:29 template-parts/content.php:59
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:43 template-parts/content.php:52
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Name of the theme
+msgid "Bakes And Cakes"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Bakes and Cakes is a beautifully designed WordPress theme for Bakery website."
+" The theme is SEO friendly with optimized codes, which make it easy for your "
+"site to rank on Google and other search engines. Bakes and Cakes comes with "
+"several features to make user-friendly, interactive and visually stunning "
+"website. It has various useful section such as testimonial section, Product "
+"section, about section, team section, banner, and Call to action section etc."
+"  The theme is Woocommerce compatible. The theme is rigorously tested and "
+"optimized for speed and faster page load time and has a secure and clean "
+"code. The theme is also translation ready. Designed with visitor engagement "
+"in mind, Bakes and Cakes helps you to easily and intuitively create "
+"professional and appealing websites for your bakery, restaurant and cafe. "
+"Check the demo at https://raratheme.com/preview/bakes-and-cakes/ , "
+"documentation at https://raratheme.com/documentation/bakes-cakes/ and get "
+"support at http://raratheme.com/support-ticket/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://raratheme.com/wordpress-themes/bakes-and-cakes/"
+msgstr ""
+
+#. Author of the theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://raratheme.com/"
+msgstr ""

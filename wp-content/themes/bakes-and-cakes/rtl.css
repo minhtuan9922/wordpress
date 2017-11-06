@@ -1,0 +1,161 @@
+/*
+Theme Name: Bakes And Cakes
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.main-navigation ul ul,
+.main-navigation ul ul ul {
+    display: none;
+}
+
+.main-navigation ul li:hover > ul {
+    left: auto;
+    right: 0;
+    display: block;
+}
+
+.main-navigation ul ul li:hover > ul {
+    left: auto;
+    right: 100%;
+    display: block;
+}
+
+.main-navigation ul ul {
+    text-align: right;
+}
+
+.banner .banner-text .text {
+    float: left;
+}
+
+.banner .banner-text .text .btn,
+.intro .columns-2,
+.special .special-post .img-holder {
+    float: right;
+}
+
+.special .special-post .text-holder {
+    padding-left: 0;
+    padding-right: 45px;
+}
+
+.special .special-post:nth-child(2n) .img-holder {
+    float: left;
+}
+
+.special .special-post:nth-child(2n) .text-holder {
+    padding-right: 0;
+    padding-left: 45px;
+}
+
+.special .columns-4,
+.special .columns-8,
+.blog-section .post {
+    float: right;
+}
+
+.special .info {
+    float: left;
+}
+
+.btn-top {
+    left: 10px;
+    right: auto;
+}
+
+.wpcf7 {
+    direction: rtl;
+}
+
+.site-footer .col {
+    text-align: right;
+}
+
+div.wpcf7 .ajax-loader {
+    margin-right: 5px;
+    margin-left: 0;
+}
+
+.site-footer .widget .social-networks li {
+    float: right;
+    margin-left: 19px;
+    margin-right: 0;
+}
+
+#secondary .widget .social-networks li {
+    float: right;
+    margin-right: 0;
+    margin-left: 19px;
+}
+
+.widget.widget_bakes_and_cakes_recent_post ul li .post-thumbnail,
+.widget.widget_bakes_and_cakes_popular_post ul li .post-thumbnail {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.widget.widget_search .search-form label,
+.widget.widget_search .search-form input[type="search"] {
+    float: right;
+}
+
+.widget.widget_search .search-form input[type="submit"] {
+    float: left;
+}
+
+.widget.widget_bakes_and_cakes_recent_post ul li .entry-header .entry-meta .posted-on a::before,
+.widget.widget_bakes_and_cakes_popular_post ul li .entry-header .entry-meta .posted-on a::before ,
+.content-area .post .readmore{
+    display: inline-block;
+}
+
+.content-area .post .entry-header .posted-on,
+.content-area .post .entry-header .byline,
+.content-area .post .entry-header .tags,
+.content-area .post .entry-header .entry-meta .comments-link {
+    display: inline-block;
+    margin-right: 0;
+    margin-left: 37px;
+}
+
+.content-area .post .entry-header .entry-meta .posted-on a::before,
+.content-area .post .entry-header .entry-meta .byline a::before {
+    margin-right: 0;
+    margin-left: 8px;
+}
+
+.edit-link{
+	float: left;
+}
+
+.testimonial .tab-content{
+    background-position: 100% 0;
+}
+.testimonial .tabset li a{
+    display: inline-block;
+}
+.testimonial .tabset li .active img{
+    float: right;
+}
+.testimonial .tabset li .active::before{
+    left: auto;
+    right: 15px;
+}
+.testimonial .tabset li .active{
+    text-align: right;
+}
+.testimonial .tabset li .active .text-holder{
+    float: left;
+}
